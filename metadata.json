@@ -1,0 +1,10 @@
+{
+  "name": "CureLink — Digitalized Healthcare Platform",
+  "description": "AI-guided digitalized healthcare support platform featuring medical equipment sharing, healthcare resource discovery, health record locker, smart reminders, and explainable symptom guidance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
